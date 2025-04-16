@@ -6,6 +6,10 @@ Example: animated gif from png images located in my_img_folder
 ![output](output.gif)
 <br/>
 
+## Running the tests
+
+Run the notebook demo_animation.ipynb
+
 ## Install
 conda install conda-forge::imageio
 
